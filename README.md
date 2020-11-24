@@ -9,9 +9,9 @@ Review the [Project 2 requirements](https://romebell.gitbook.io/sei-1019/project
 In this space below, list **THREE** ideas for your Project 2. For each idea, include [user stories](https://revelry.co/user-stories-that-dont-suck/) for each idea and a link to the API(s) you want to use for it.
 
 --------------------------------------------------------
-1. 
-2. 
-3.
+1. my first idea is a real estate app using a house listing api for people looking for a house that shows the availible listings in Maryland, Washington DC, and Northern Virginia and connects the user with a realtor using their sign in information(https://www.ihomefinder.com/features/custom-idx-data-api/)
+2. my second idea is a sued car app where people looking to sell can post and people looking to buy can shop using a used car api 
+3. 
 ---------------------------------------------------------
 
 Make a PR when you're done!
