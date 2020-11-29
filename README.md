@@ -10,8 +10,9 @@ In this space below, list **THREE** ideas for your Project 2. For each idea, inc
 
 --------------------------------------------------------
 1. my first idea is a real estate app using a house listing api for people looking for a house that shows the availible listings in Maryland, Washington DC, and Northern Virginia and connects the user with a realtor using their sign in information(https://www.ihomefinder.com/features/custom-idx-data-api/)
-2. my second idea is a sued car app where people looking to sell can post and people looking to buy can shop using a used car api 
-3. 
+2. my second idea is for the used cars i was thinking a user could put in the necessary information for the user table (name, contact information) but in the second table car and type,color, mile cap that your looking for
+and once you make an account you can also post cars that you want to sell also
+3. my third idea is a game reviewing app where you can search a game and all of the corrsesponding comments and reviews people have made on it come up and you can add your own comment 
 ---------------------------------------------------------
 
 Make a PR when you're done!
